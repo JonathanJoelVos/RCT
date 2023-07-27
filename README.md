@@ -1,16 +1,4 @@
-# PDF Example
-
-![Supports iOS](https://img.shields.io/badge/iOS-000.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)
-![Supports Android](https://img.shields.io/badge/Android-000.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)
-
-Use `react-native-pdf` in a custom [Expo Dev Client](https://docs.expo.dev/clients/introduction/) (not available in Expo Go).
-
-## 🚀 How to use
-
-```sh
-yarn android
-```
-
+## RCT 
 ## ☁️ Build in the cloud
 
 - [Building with EAS](https://docs.expo.dev/eas/)

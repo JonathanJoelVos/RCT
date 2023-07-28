@@ -12,6 +12,12 @@
         "android.permission.ACCESS_NETWORK_STATE"
       ],
       "package": "com.jonathanjoelvos.rct"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2b991ba6-1408-4858-913f-a78484f86860"
+      }
+    },
+    "owner": "jonathanjoelvos"
   }
 }

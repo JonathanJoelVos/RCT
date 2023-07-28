@@ -16,20 +16,20 @@ export default function AvailableBooksScrollView(props: AvailableBooksScrollView
                 book={{
                     id: "1",
                     srcImage: "https://fapesc.sc.gov.br/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-21-at-17.47.44.jpeg",
-                    title: "Introdução",
+                    title: "RCT-Apresentação",
                     autor: "RCT",
                     rate: "5.0",
-                    bookURL: require('../../assets/Quatro-Passos-para-o-Perdao-William-Fergus-Martin.pdf')
+                    bookURL: require('../../assets/RCT-Apresentação.pdf')
                 }}
             />
             <BookBox
                 book={{
                     id: "2",
-                    title: "RCT",
+                    title: "RCT-EBOOK",
                     autor: "RCT",
                     rate: "5.0",
                     srcImage: "https://fapesc.sc.gov.br/wp-content/uploads/2022/01/banner-lateral_plataforma.jpg",
-                    bookURL: require('../../assets/Quatro-Passos-para-o-Perdao-William-Fergus-Martin.pdf')
+                    bookURL: require('../../assets/RCT-EBOOK.pdf')
                 }}
             />
         </ScrollView>

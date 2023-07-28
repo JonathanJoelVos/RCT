@@ -16,10 +16,10 @@ export default function ContinueReadingBox({
     const [lastBookRead, setLastBookRead] = useState<BookType>({
             id: "1",
             srcImage: "https://fapesc.sc.gov.br/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-21-at-17.47.44.jpeg",
-            title: "Introdução",
+            title: "RCT Apresentação",
             autor: "RCT",
-            rate: "4.5",
-            bookURL: require('../../assets/Quatro-Passos-para-o-Perdao-William-Fergus-Martin.pdf')
+            rate: "5.0",
+            bookURL: require('../../assets/RCT-Apresentação.pdf')
         })
     const navigation = useNavigation<AppNavigatorRoutesProps>();
     const percentsRead = (Number(lastBookRead?.lastPageRead) / Number(lastBookRead?.totalPages)) * 100
